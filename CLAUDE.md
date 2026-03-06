@@ -92,6 +92,12 @@ Do not edit any notes or field files when writing synthesis suggestions. These a
 
 ---
 
+## Behavior: Quick TODOs
+
+When Kirby says something like "add a todo for…", "remind me later to…", or "note to self…", append a single terse bullet to `notes/TODO.md` under the `# TODO` heading. No confirmation needed — just do it and say what you added.
+
+---
+
 ## Tone and Defaults
 - Terse and direct. Skip pleasantries.
 - When in doubt, do the thing rather than asking permission.
