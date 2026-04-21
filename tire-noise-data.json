@@ -1,0 +1,303 @@
+{
+  "tires": {
+    "BFG KM3 LR E":                   "BFGoodrich Mud-Terrain T/A KM3 (LR E)",
+    "BFG KO2 LR C":                   "BFG All-Terrain T/A KO2 (LR C)",
+    "BFG KO2 LR E":                   "BFG All-Terrain T/A KO2 (LR E)",
+    "BFG KO3 LR E":                   "BFG All-Terrain T/A KO3 (LR E)",
+    "BFG TRAIL TERRAIN P SL":         "BFGoodrich Trail-Terrain T/A (P SL)",
+    "BFG TRAIL TERRAIN P XL":         "BFGoodrich Trail-Terrain T/A (P XL)",
+    "BFG TRAIL TERRAIN LR E":         "BFGoodrich Trail-Terrain T/A (LR E)",
+    "BRIDGE DUELER ASCENT P SL":      "Bridgestone Dueler A/T Ascent (P SL)",
+    "BRIDGE DUELER ASCENT LR E":      "Bridgestone Dueler A/T Ascent (LR E)",
+    "BRIDGE DUELER REVO3 P SL":       "Bridgestone Dueler A/T Revo 3 (P SL)",
+    "CONTI CC HT P SL":               "Continental CrossContact HT (P SL)",
+    "CONTI TC AT P SL":               "Continental TerrainContact A/T (P SL)",
+    "CONTI TC AT LR E":               "Continental TerrainContact A/T (LR E)",
+    "COOP AT3 4S P SL":               "Cooper Discoverer AT3 4S (P SL)",
+    "COOP AT3 LT LR E":               "Cooper Discoverer AT3 LT (LR E)",
+    "COOP ROAD TRAIL AT P SL":        "Cooper Discoverer Road+Trail AT (P SL)",
+    "COOP RUGGED TREK P XL":          "Cooper Discoverer Rugged Trek (P XL)",
+    "COOP STRONGHOLD AT LR E":        "Cooper Discoverer Stronghold AT (LR E)",
+    "COOP STT PRO LR E":              "Cooper Discoverer STT Pro (LR E)",
+    "FALKEN AT TRAIL P XL":           "Falken WildPeak A/T Trail (P XL)",
+    "FALKEN AT3W P SL":               "Falken WildPeak A/T3W (P SL)",
+    "FALKEN AT3W LR E":               "Falken WildPeak A/T3W (LR E)",
+    "FALKEN AT3WA P SL":              "Falken Wildpeak AT3W A (P SL)",
+    "FALKEN AT4W P SL":               "Falken WildPeak A/T4W (P SL)",
+    "FALKEN AT4W LR E":               "Falken WildPeak A/T4W (LR E)",
+    "FALKEN RT01 P SL":               "Falken WildPeak R/T01 (P SL)",
+    "FALKEN RUBITREK P SL":           "Falken Rubitrek A/T01 (P SL)",
+    "FIRE DEST AT2 P SL":             "Firestone Destination A/T2 (P SL)",
+    "FIRE DEST AT2 LR E":             "Firestone Destination A/T2 (LR E)",
+    "FIRE DEST MT2 LR E":             "Firestone Destination M/T2 (LR E)",
+    "FIRE DEST XT LR E":              "Firestone Destination X/T (LR E)",
+    "GEN GRABBER AT3 P SL":           "General Grabber AT3 (P SL)",
+    "GEN GRABBER ATX LR E":           "General Grabber A/TX (LR E)",
+    "GEN GRABBER X3 LR E":            "General Grabber X3 (LR E)",
+    "GY AT ADVENTURE P SL":           "Goodyear Wrangler AT Adventure (P SL)",
+    "GY AT ADVENTURE LR E":           "Goodyear Wrangler AT Adventure (LR E)",
+    "GY DURATRAC RT P XL":            "Goodyear Wrangler DuraTrac RT (P XL)",
+    "GY WORKHORSE AT2 P SL":          "Goodyear Wrangler Workhorse AT2 (P SL)",
+    "HANK AT2X P SL":                 "Hankook Dynapro AT2 Xtreme (P SL)",
+    "KUMHO RV AT52 LR E":             "Kumho Road Venture AT52 (LR E)",
+    "KUMHO RV RT P SL":               "Kumho Road Venture RT (P SL)",
+    "LODER AT1 LR E":                 "Loder AT1 (LR E)",
+    "MT BAJA BOSS AT P SL":           "Mickey Thompson Baja Boss A/T (P SL)",
+    "MT BAJA BOSS AT P XL":           "Mickey Thompson Baja Boss A/T (P XL)",
+    "NITTO NOMAD P XL":               "Nitto Nomad Grappler (P XL)",
+    "NITTO RECON LR E":               "Nitto Recon Grappler A/T (LR E)",
+    "NITTO RIDGE P XL":               "Nitto Ridge Grappler (P XL)",
+    "NITTO TG G2 LR E":               "Nitto Terra Grappler G2 (LR E)",
+    "NITTO TG G3 P XL":               "Nitto Terra Grappler G3 (P XL)",
+    "PIR SCORPION AT PLUS P SL":      "Pirelli Scorpion All Terrain Plus (P SL)",
+    "PIR SCORPION AT PLUS LR E":      "Pirelli Scorpion All Terrain Plus (LR E)",
+    "PIR SCORPION XTM LR E":          "Pirelli Scorpion XTM AT (LR E)",
+    "SUMI ENCOUNTER AT LR E":         "Sumitomo Encounter AT (LR E)",
+    "SUMI ENCOUNTER AT2 P SL":        "Sumitomo Encounter AT2 (P SL)",
+    "TOYO AT3 P SL":                  "Toyo Open Country A/T III (P SL)",
+    "TOYO AT3 LR E":                  "Toyo Open Country A/T III (LR E)",
+    "TOYO RT TRAIL P SL":             "Toyo Open Country R/T Trail (P SL)",
+    "TRAVEL ECOPATH AT LR E":         "Travelstar Ecopath AT (LR E)",
+    "VRED PINZA AT P SL":             "Vredestein Pinza AT (P SL)",
+    "YOKO AT G015 P XL":              "Yokohama Geolandar A/T G015 (P XL)",
+    "YOKO AT G015 LR E":              "Yokohama Geolandar A/T G015 (LR E)",
+    "YOKO AT4 LR E":                  "Yokohama Geolandar A/T4 (LR E)",
+    "YOKO XAT P XL":                  "Yokohama Geolandar X-AT (P XL)"
+  },
+
+  "tests": [
+    {
+      "source": "Tire Rack ttid=240",
+      "description": "On-/Off-Road AT 2018 | F-150 | Subjective 0-10 (higher=quieter)",
+      "size": "275/65R18",
+      "load_range": "SL",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "CONTI TC AT P SL",          "score": 7.66, "note": "Lowest-noise in test; two-tone distant roar, composed"},
+        {"id": "BRIDGE DUELER REVO3 P SL",  "score": 7.16, "note": "Moderate tread/impact noise, broad white-noise-like"},
+        {"id": "COOP AT3 4S P SL",          "score": 7.16, "note": "Tread noise is very noticeable"},
+        {"id": "PIR SCORPION AT PLUS P SL", "score": 6.84, "note": "Similar volume to Bridgestone but multiple discernible tones"}
+      ]
+    },
+    {
+      "source": "Tire Rack ttid=275",
+      "description": "On-/Off-Road AT 2021 | LT-metric 10-ply, F-150 | Subjective 0-10 (higher=quieter)",
+      "size": "LT265/70R17",
+      "load_range": "E",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "COOP AT3 LT LR E",     "score": 7.00, "note": "Mild, unobtrusive noise on the road"},
+        {"id": "GEN GRABBER ATX LR E", "score": 6.25, "note": "Distant two-tone roar; reasonable noise comfort"},
+        {"id": "FIRE DEST XT LR E",    "score": 6.00, "note": "Single higher-pitched tone stands out regardless of surface"},
+        {"id": "TOYO AT3 LR E",        "score": 5.67, "note": "Loudest in test; high-pitched, multi-tonal, intrusive at highway speed"}
+      ]
+    },
+    {
+      "source": "Tire Rack ttid=276",
+      "description": "Off-Road Maximum Traction / Mud-Terrain 2021 | Subjective 0-10 (higher=quieter)",
+      "size": "unknown",
+      "load_range": "E",
+      "size_note": "Size not verifiable (test page inaccessible); load range E assumed per MT-tire convention",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "GEN GRABBER X3 LR E", "score": 5.50, "note": "Quietest of MT group; blended into consistent tone"},
+        {"id": "BFG KM3 LR E",        "score": 5.00, "note": "Growly around town; pattern noise emerges on highway"},
+        {"id": "COOP STT PRO LR E",   "score": 4.50, "note": "Not dramatic at low speed; elevates significantly on highway"},
+        {"id": "FIRE DEST MT2 LR E",  "score": 4.13, "note": "Significant two-tone pattern noise, pitch changes with speed"}
+      ]
+    },
+    {
+      "source": "Tire Rack ttid=281",
+      "description": "On-/Off-Road AT 2021 | 235/60R18 crossover/SUV sizing | Subjective 0-10 (higher=quieter)",
+      "size": "235/60R18",
+      "load_range": "XL",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "FALKEN AT TRAIL P XL",   "score": 6.75, "note": "Only mild growl; some cavity noise over impacts"},
+        {"id": "YOKO AT G015 P XL",      "score": 6.75, "note": "Unobtrusive broad tones; some cavity noise over bumps"},
+        {"id": "BFG TRAIL TERRAIN P XL", "score": 6.25, "note": "Distant but constant whine, hard to ignore once noticed"}
+      ]
+    },
+    {
+      "source": "Tire Rack ttid=282",
+      "description": "On-/Off-Road AT 2021 (second group) | Subjective 0-10 (higher=quieter)",
+      "size": "LT265/70R17",
+      "load_range": "E",
+      "size_note": "Inferred from companion test ttid=275 (same 2021 AT test series); ttid=282 page inaccessible for direct confirmation",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "FALKEN AT3W LR E",      "score": 6.75, "note": "Modest level, distant mix of white tones; surprisingly refined"},
+        {"id": "GEN GRABBER ATX LR E",  "score": 6.38, "note": "Mid-pack"},
+        {"id": "SUMI ENCOUNTER AT LR E","score": 6.00, "note": "Moderately consistent but higher-pitched pattern noise"}
+      ]
+    },
+    {
+      "source": "Tire Rack ttid=292",
+      "description": "On-/Off-Road AT 2022 (milder on-road-biased group) | Subjective 0-10 (higher=quieter)",
+      "size": "265/60R18",
+      "load_range": "SL",
+      "size_note": "P-metric 110T on 2022 Ford Explorer ST test vehicles",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "CONTI TC AT P SL",   "score": 6.88, "note": "Blends noises to low volumes; nearly disappears on smooth pavement"},
+        {"id": "FIRE DEST AT2 P SL", "score": 6.63, "note": "Slight cyclical pattern noise on smooth roads, masked on coarse"},
+        {"id": "VRED PINZA AT P SL", "score": 6.38, "note": "More traditional pattern noise on smooth pavement"}
+      ]
+    },
+    {
+      "source": "Tire Rack ttid=293",
+      "description": "On-/Off-Road AT 2022 (more aggressive group) | Subjective 0-10 (higher=quieter)",
+      "size": "265/60R18",
+      "load_range": "mixed",
+      "size_note": "Toyo AT3 is SL-only in 265/60R18 (110T); MT Baja Boss AT is XL-only (114T); Falken AT3W offered in both — assumed SL to match Toyo peer",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "FALKEN AT3W P SL",     "score": 7.13, "note": "Test-leading noise comfort; commendably low, distant/indistinct tones"},
+        {"id": "TOYO AT3 P SL",        "score": 6.50, "note": "Medium volume, high-pitched vibrato with low growl"},
+        {"id": "MT BAJA BOSS AT P XL", "score": 6.00, "note": "Loudest here; cyclical drone plus low-pitched growl"}
+      ]
+    },
+    {
+      "source": "Tire Rack ttid=309",
+      "description": "On-Road A/T 2023 | 265/60R18 | Subjective 0-10 (higher=quieter)",
+      "size": "265/60R18",
+      "load_range": "mixed",
+      "size_note": "BFG Trail-Terrain is SL-only in 265/60R18 (110T); Nitto Nomad Grappler is XL-only (114H); Falken A/T Trail is XL",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "BFG TRAIL TERRAIN P SL", "score": 7.38, "note": "Among the quieter on-road AT in this group"},
+        {"id": "NITTO NOMAD P XL",       "score": 7.13, "note": "Better than its Grappler siblings"},
+        {"id": "FALKEN AT TRAIL P XL",   "score": 6.75, "note": "Mid-pack noise"}
+      ]
+    },
+    {
+      "source": "Tire Rack ttid=323",
+      "description": "Rugged A/T 2023 | 265/60R18 | Subjective 0-10 (higher=quieter)",
+      "size": "265/60R18",
+      "load_range": "XL",
+      "size_note": "P-metric 114 XL (not LT); Ridge Grappler and Yokohama X-AT both listed as 265/60R18 114 XL",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "MT BAJA BOSS AT P XL", "score": 6.75, "note": "Constant cyclical pattern noise on most surfaces"},
+        {"id": "YOKO XAT P XL",        "score": 6.50, "note": "Audible highway resonance but blends well"},
+        {"id": "NITTO RIDGE P XL",     "score": 5.25, "note": "Higher-pitched drones, stand-out road noise"}
+      ]
+    },
+    {
+      "source": "Tire Rack ttid=337",
+      "description": "Off-Road AT 2024 | Subjective 0-10 (higher=quieter)",
+      "size": "265/70R17",
+      "load_range": "mixed",
+      "size_note": "2024 Toyota Tacoma TRD Sport; Tire Rack note states 4 of 12 tires are LT-rated. The four LT tires are Nitto Recon Grappler, BFG KO3, Cooper Stronghold AT, and Yokohama Geolandar A/T4 (all LR E). Remaining 8 are P-metric.",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "VRED PINZA AT P SL",       "score": 7.50, "note": "Quietest in this test"},
+        {"id": "COOP ROAD TRAIL AT P SL",  "score": 7.00, "note": "Quiet for category"},
+        {"id": "NITTO RECON LR E",         "score": 7.00, "note": "Surprisingly quiet for an aggressive tire"},
+        {"id": "BRIDGE DUELER ASCENT P SL","score": 6.75, "note": "Good on-road refinement"},
+        {"id": "FALKEN AT4W P SL",         "score": 6.50, "note": "Mid-pack"},
+        {"id": "HANK AT2X P SL",           "score": 6.50, "note": "Mid-pack"},
+        {"id": "GY DURATRAC RT P XL",      "score": 6.00, "note": "Noisier, aggressive tread"},
+        {"id": "NITTO TG G3 P XL",         "score": 6.00, "note": "Noisier"},
+        {"id": "BFG KO3 LR E",             "score": 5.75, "note": "Noisier than expected for KO3"},
+        {"id": "YOKO AT4 LR E",            "score": 5.75, "note": "Louder"},
+        {"id": "COOP RUGGED TREK P XL",    "score": 5.50, "note": "Loud"},
+        {"id": "COOP STRONGHOLD AT LR E",  "score": 5.25, "note": "Loudest in test"}
+      ]
+    },
+    {
+      "source": "Tire Rack ttid=347",
+      "description": "AT 2025 | 265/70R17 | Subjective 0-10 (higher=quieter)",
+      "size": "265/70R17",
+      "load_range": "SL",
+      "size_note": "P-metric 115S/115T Standard Load (non-LT)",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "CONTI TC AT P SL",       "score": 7.75, "note": "Quietest in test by a margin"},
+        {"id": "FALKEN RUBITREK P SL",   "score": 6.75, "note": "2nd quietest"},
+        {"id": "KUMHO RV RT P SL",       "score": 6.25, "note": "Quiet cabin, mid-pack"},
+        {"id": "MT BAJA BOSS AT P SL",   "score": 6.25, "note": "Decent for aggressive tire"},
+        {"id": "FALKEN RT01 P SL",       "score": 6.25, "note": "Mid-pack"},
+        {"id": "GY WORKHORSE AT2 P SL",  "score": 5.75, "note": "Noticeably intrusive"},
+        {"id": "SUMI ENCOUNTER AT2 P SL","score": 5.75, "note": "Noticeably intrusive"},
+        {"id": "TOYO AT3 P SL",          "score": 5.25, "note": "Loud, multiple intrusive tones"},
+        {"id": "TOYO RT TRAIL P SL",     "score": 4.75, "note": "Loudest; steady tread growl"}
+      ]
+    },
+    {
+      "source": "Tire-Reviews 2022 AT Test",
+      "description": "275/65R18, F-150 | External pass-by dB (lower=quieter)",
+      "size": "LT275/65R18",
+      "load_range": "E",
+      "size_note": "LT-metric 123/120S Load Range E (10-ply) on Ford F-150 Raptor",
+      "lower_is_better": true,
+      "tires": [
+        {"id": "CONTI TC AT LR E",         "score": 71.9, "note": "Lowest external noise on test"},
+        {"id": "FIRE DEST AT2 LR E",       "score": 72.8, "note": "Quiet straight-line"},
+        {"id": "GY AT ADVENTURE LR E",     "score": 73.0, "note": "Low noise"},
+        {"id": "YOKO AT G015 LR E",        "score": 73.2, "note": "Very comfortable cabin"},
+        {"id": "BFG TRAIL TERRAIN LR E",   "score": 73.5, "note": "Low cabin noise"},
+        {"id": "TOYO AT3 LR E",            "score": 75.3, "note": "Audible in cabin"},
+        {"id": "TRAVEL ECOPATH AT LR E",   "score": 76.7, "note": "Intrusive pattern noise"},
+        {"id": "NITTO TG G2 LR E",         "score": 77.3, "note": "Directional asymmetry (loud in left turns)"},
+        {"id": "PIR SCORPION AT PLUS LR E","score": 78.1, "note": "Highest external dB on test"}
+      ]
+    },
+    {
+      "source": "Tire-Reviews Best AT Tested 2025",
+      "description": "External pass-by dB only (lower=quieter)",
+      "size": "265/70R17",
+      "load_range": "mixed",
+      "size_note": "Mixed load ranges: Conti CC HT/GY AT Adventure/Grabber AT3/Dueler Ascent/Falken AT3WA all P SL; Loder AT1 is LT E (motorhome); BFG KO2 in 265/70R17 is LT only (Load Range C)",
+      "lower_is_better": true,
+      "tires": [
+        {"id": "CONTI CC HT P SL",         "score": 70.50, "note": "Quietest"},
+        {"id": "GY AT ADVENTURE P SL",     "score": 70.70, "note": "Very quiet"},
+        {"id": "GEN GRABBER AT3 P SL",     "score": 70.90, "note": "Very quiet"},
+        {"id": "LODER AT1 LR E",           "score": 71.90, "note": "Quiet"},
+        {"id": "BRIDGE DUELER ASCENT P SL","score": 72.90, "note": "Mid-pack"},
+        {"id": "BFG KO2 LR C",             "score": 73.40, "note": "Louder end"},
+        {"id": "FALKEN AT3WA P SL",        "score": 73.40, "note": "Tied with KO2"}
+      ]
+    },
+    {
+      "source": "Tire-Reviews BEST AT for 2025",
+      "description": "35x12.5R17 (Raptor) | Subjective 0-10 (higher=quieter)",
+      "size": "LT35x12.50R17",
+      "load_range": "E",
+      "size_note": "LT-metric 10-ply Load Range E (standard for this flotation size across all five tested models)",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "FALKEN AT4W LR E",   "score": 10.00, "note": "Quietest; minimal pattern noise"},
+        {"id": "BFG KO2 LR E",       "score": 9.75,  "note": "Quiet until higher speeds"},
+        {"id": "KUMHO RV AT52 LR E", "score": 9.50,  "note": "Stays quiet"},
+        {"id": "TOYO AT3 LR E",      "score": 9.25,  "note": "Quiet at 50 mph; noisier at speed"},
+        {"id": "NITTO RECON LR E",   "score": 8.50,  "note": "Notably loud at most speeds"}
+      ]
+    },
+    {
+      "source": "Tire-Reviews: KO3 vs Pirelli Scorpion XTM AT",
+      "description": "285/70R17 | Subjective 0-10 (higher=quieter)",
+      "size": "LT285/70R17",
+      "load_range": "E",
+      "size_note": "LT-metric 126/123S Load Range E (10-ply)",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "BFG KO3 LR E",          "score": 10.00, "note": "Benchmark low road noise"},
+        {"id": "PIR SCORPION XTM LR E", "score": 9.75,  "note": "Very close to KO3"}
+      ]
+    },
+    {
+      "source": "Tire-Reviews: KO3 vs Bridgestone Ascent vs Cooper Stronghold",
+      "description": "275/65R18 | Subjective 0-10 (higher=quieter)",
+      "size": "LT275/65R18",
+      "load_range": "E",
+      "lower_is_better": false,
+      "tires": [
+        {"id": "BRIDGE DUELER ASCENT LR E","score": 10.0, "note": "Quietest in this trio"},
+        {"id": "BFG KO3 LR E",             "score": 9.80, "note": "Very close to Ascent"},
+        {"id": "COOP STRONGHOLD AT LR E",  "score": 7.50, "note": "Clearly noisier"}
+      ]
+    }
+  ]
+}
